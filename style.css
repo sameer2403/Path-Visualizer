@@ -6,11 +6,11 @@ body {
     overflow: hidden;
     background-image: linear-gradient(
       to bottom right,
-      #1572A1,
-      #FFC0D3,
-      #B667F1,
-      #9AD0EC,
-      #270082
+      #4d92d3,
+      #ce9238,
+      #5f64b1,
+      #57173c,
+      #2d575d
     );
 }
 
@@ -30,7 +30,7 @@ body {
     background: linear-gradient(90deg, #000, #fff, #000);
     background-repeat: no-repeat;
     background-size: 80%;
-    animation: animate 3s linear infinite;
+    animation: animate 7s linear infinite;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
